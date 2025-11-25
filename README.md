@@ -1,4 +1,4 @@
-<h1><a href="https://yrty2.github.io/">I'm here.</a></h1>
+<h1>I'm <a href="https://yrty2.github.io/">here</a></h1>
 
 <p>どうも、右目だけのおばけです。</p>
 
