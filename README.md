@@ -4,7 +4,7 @@
 
 <p>いるてぃと呼んでください。</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yrty2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](github-readme-stats-xi-opal-99.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>代数学、位相空間論に興味アリ</p>
 
