@@ -8,4 +8,5 @@
 
 <p>あと二言はありません。</p>
 
-<img src="maguro.jpeg" border="2px solid blue"></img>
+<p border="2px solid blue"><img src="maguro.jpeg"></img></p>
+(マグロの水槽で高級感を演出)
