@@ -1,11 +1,11 @@
 <h1><a href="https://yrty2.github.io/">I'm here.</a></h1>
 
-どうも、右目だけのおばけです。
+<p>どうも、右目だけのおばけです。</p>
 
-いるてぃと呼んでください。。
+<p>いるてぃと呼んでください。</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yrty2)](https://github.com/anuraghazra/github-readme-stats)
 
-代数学、位相空間論に興味アリ
+<p>代数学、位相空間論に興味アリ</p>
 
-あと二言はありません。
+<p>あと二言はありません。</p>
