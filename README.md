@@ -8,4 +8,4 @@
 
 <p>あと二言はありません。</p>
 
-<img src="maguro.jpeg" border="2px solid;"></img>
+<img src="maguro.jpeg" border="2px solid blue"></img>
