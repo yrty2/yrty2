@@ -6,7 +6,7 @@
 
 <p>代数学、位相空間論に興味アリ</p>
 
-<p>自作のプログラミング言語 <a href="https://yrty2.github.io/BlueOcean">blueocean<a>を作ったり</p>
+<p>自作のプログラミング言語 <a href="https://github.com/yrty2/BlueOcean">blueocean<a>を作ったり</p>
 
 <img src="maguro.jpeg"></img>
 
