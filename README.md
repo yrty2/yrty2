@@ -6,7 +6,7 @@
 
 <p>得意：代数学、非ユークリッド幾何学、DTM、ピクセルアート</p>
 
-<p>C,C++,javascriptで単純なゲームを作れる程度</p>
+<p>C,C++,javascriptで単純な3Dゲームを作れる程度</p>
 
 <p>C#,java,WGSL,WebAssemblyが書ける程度</p>
 
