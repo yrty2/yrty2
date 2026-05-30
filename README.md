@@ -10,7 +10,7 @@
 
 <p>C,C++,javascriptで単純な3Dゲームを作れる程度</p>
 
-<p>C#,java,WGSL,WebAssemblyが書ける程度</p>
+<p>C#,java,WGSL,WebAssembly,supercolliderが書ける程度</p>
 
 <p>juliaに興味がわいてきている</p>
 
